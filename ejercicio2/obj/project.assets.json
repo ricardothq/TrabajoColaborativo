@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\MSI GL65 95EK\\.nuget\\packages\\": {}
+    "C:\\Users\\ramir\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MSI GL65 95EK\\Desktop\\GIT\\TrabajoColaborativo\\ejercicio2\\ejercicio2.csproj",
+      "projectUniqueName": "C:\\Users\\ramir\\Desktop\\GIT\\TrabajoColaborativo\\ejercicio2\\ejercicio2.csproj",
       "projectName": "ejercicio2",
-      "projectPath": "C:\\Users\\MSI GL65 95EK\\Desktop\\GIT\\TrabajoColaborativo\\ejercicio2\\ejercicio2.csproj",
-      "packagesPath": "C:\\Users\\MSI GL65 95EK\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MSI GL65 95EK\\Desktop\\GIT\\TrabajoColaborativo\\ejercicio2\\obj\\",
+      "projectPath": "C:\\Users\\ramir\\Desktop\\GIT\\TrabajoColaborativo\\ejercicio2\\ejercicio2.csproj",
+      "packagesPath": "C:\\Users\\ramir\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ramir\\Desktop\\GIT\\TrabajoColaborativo\\ejercicio2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\MSI GL65 95EK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ramir\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

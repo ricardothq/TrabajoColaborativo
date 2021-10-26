@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\MSI GL65 95EK\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\MSI GL65 95EK\\.nuget\\packages"
+      "C:\\Users\\ramir\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ramir\\.nuget\\packages"
     ]
   }
 }
