@@ -6,7 +6,12 @@ namespace ejercicio2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int edad;
+            char sexo;
+            float altura;
+            Console.WriteLine("Digite sus edad: ");
+            edad=int.Parse(Console.ReadLine());
+
         }
     }
 }
